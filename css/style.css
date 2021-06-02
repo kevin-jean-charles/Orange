@@ -1,0 +1,18 @@
+.orange{
+    height: 10em;
+    width: 10em;
+    background-color: orange;
+    border-radius: 50%;
+    box-shadow: inset -0.5em -0.7em orangered;
+}
+
+.leaf{
+    width: 3.5em;
+    height: 3em;
+    background-color: green;
+    position: absolute;
+    left: 5em;
+    top: 3.5em;
+    border-radius: 50% 0 50% 0;
+}
+
